@@ -1,0 +1,21 @@
+
+
+
+
+#heading{
+background-color: white;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: darkred;
+
+}
+#heading p{
+color: #000;
+}
+
+.main_div{
+margin-top: 20px;
+}
+
+body{
+    background:peachpuff;
+}
